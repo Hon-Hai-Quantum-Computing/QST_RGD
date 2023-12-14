@@ -1,10 +1,14 @@
-# QST RGD
+# Overview
 
 1. use MiFGD as the basis
 
 2. arxiv
 
-3. 
+
+# Usage
+
+1. must create a directory ./calc and data stored in ./calc
+
 
 
 
