@@ -9,6 +9,8 @@
 
 1. must create a directory ./calc and data stored in ./calc
 
+2. python main_QST.py
+
 
 
 
